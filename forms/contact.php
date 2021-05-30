@@ -28,7 +28,7 @@
     'host' => 'a2plcpnl0612.prod.iad2.secureserver.net',
     'username' => 'hola@paseotumascota.com',
     'password' => 'Paseo21*',
-    'port' => '587'
+    'port' => '465'
   );
   
 
